@@ -1,1 +1,5 @@
 test
+
+dodatkowa funkcjinalnosc
+
+dodatkowa funkcjinalnosc1
